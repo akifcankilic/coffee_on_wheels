@@ -13,4 +13,4 @@
 	    - **Insights**, but if that doesn't work and not generate the insight that we need, we can click **Query** in the **Schema**, then use **Transform SQL with Gemini** to generate information we want.
 
 3.  For your use cases, which tool, table explorer or data insights, would help you the most? Why?
-	-	Probably all, but currently **Insights** and **Transform SQL with Gemini**.
+		-	Probably all, but currently **Insights** and **Transform SQL with Gemini**.
