@@ -1,8 +1,8 @@
 1.  Find the top three items with the highest average prices for each size.
     -   Which table or tables would contain this?
-	    *- **menu** table has `item_size`, `item_price`and even `item_name`.*   
+	   - **menu** table has `item_size`, `item_price`and even `item_name`.*   
     -   Which tool would help you answer this question?
-		*- **Insights** tool is useful. Then after using the query it advises, we can use **Transform SQL with Gemini** and fine tune for what we want.*
+	- **Insights** tool is useful. Then after using the query it advises, we can use **Transform SQL with Gemini** and fine tune for what we want.*
 		
 2.  Find all orders from location_id 37.
 	-   Which table or tables would contain this information?
